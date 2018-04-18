@@ -1,0 +1,22 @@
+[Unit]
+Description=BitBony's distributed currency daemon
+After=network.target
+
+[Service]
+User=bitbonycore
+Group=bitbonycore
+
+Type=forking
+PIDFile=/var/lib/bitbonyd/bitbonyd.pid
+ExecStart=/usr/bin/bitbonyd -daemon -pid=/var/lib/bitbonyd/bitbonyd.pid \
+-conf=/etc/bitbonycore/bitbony.conf -datadir=/var/lib/bitbonyd -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

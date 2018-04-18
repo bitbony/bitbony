@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BitBony
+Comment=BitBony P2P Cryptocurrency
+Comment[fr]=BitBony, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BitBony, eşten eşe kriptografik sanal para birimi
+Exec=bitbony-qt %u
+Terminal=false
+Type=Application
+Icon=bitbony128
+MimeType=x-scheme-handler/bitbony;
+Categories=Office;Finance;

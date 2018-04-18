@@ -123,7 +123,7 @@ public:
 };
 
 /**
- * Dash RPC command dispatcher.
+ * BitBony RPC command dispatcher.
  */
 class CRPCTable
 {

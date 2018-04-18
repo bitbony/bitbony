@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/bitbony_bg.qm</file>
+        <file alias="de">locale/bitbony_de.qm</file>
+        <file alias="en">locale/bitbony_en.qm</file>
+        <file alias="es">locale/bitbony_es.qm</file>
+        <file alias="fi">locale/bitbony_fi.qm</file>
+        <file alias="fr">locale/bitbony_fr.qm</file>
+        <file alias="it">locale/bitbony_it.qm</file>
+        <file alias="ja">locale/bitbony_ja.qm</file>
+        <file alias="pl">locale/bitbony_pl.qm</file>
+        <file alias="pt">locale/bitbony_pt.qm</file>
+        <file alias="ru">locale/bitbony_ru.qm</file>
+        <file alias="sk">locale/bitbony_sk.qm</file>
+        <file alias="sv">locale/bitbony_sv.qm</file>
+        <file alias="vi">locale/bitbony_vi.qm</file>
+        <file alias="zh_CN">locale/bitbony_zh_CN.qm</file>
+        <file alias="zh_TW">locale/bitbony_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+usr/local/bin/bitbony-qt usr/bin
+share/pixmaps/bitbony32.xpm usr/share/pixmaps
+share/pixmaps/bitbony16.xpm usr/share/pixmaps
+share/pixmaps/bitbony128.png usr/share/pixmaps
+debian/bitbony-qt.desktop usr/share/applications
+debian/bitbony-qt.protocol usr/share/kde4/services/
