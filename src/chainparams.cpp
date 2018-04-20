@@ -248,10 +248,10 @@ public:
         nDelayGetHeadersTime = 24 * 60 * 60;
         nPruneAfterHeight = 1000;
 
-        genesis = CreateGenesisBlock(1524237825, 1041023, 0x1e0ffff0, 1, 50 * COIN);
+        genesis = CreateGenesisBlock(1524237826, 650715, 0x1e0ffff0, 1, 50 * COIN);
         consensus.hashGenesisBlock = genesis.GetHash();
-        assert(consensus.hashGenesisBlock == uint256S("0x00000b7a72400e9679b0c6bb1a2e2f8a55ce64e3e422bf6afc0ab4728080b23c"));
-        assert(genesis.hashMerkleRoot == uint256S("0x1df48f4685d5155b7b35b4858ce922dafeb4ebd07cbecb0d2c67d8d91e017620"));
+        assert(consensus.hashGenesisBlock == uint256S("0x00000742be0cc77ac28a73077dec40cfde37bd4363a843c0eae6c65409c6b4dc"));
+        assert(genesis.hashMerkleRoot == uint256S("0xcc512402363ffb665b724894bd8b6e37b88dba405b761ce1962673958baf4fd4"));
 
         vFixedSeeds.clear();
         vSeeds.clear();
@@ -286,7 +286,7 @@ public:
 
         checkpointData = (CCheckpointData){
                     boost::assign::map_list_of
-                    ( 0, uint256S("0x00000b7a72400e9679b0c6bb1a2e2f8a55ce64e3e422bf6afc0ab4728080b23c")),
+                    ( 0, uint256S("0x00000742be0cc77ac28a73077dec40cfde37bd4363a843c0eae6c65409c6b4dc")),
                     0,
                     0,
                     0
@@ -356,9 +356,9 @@ public:
         nDefaultPort = 19531;
         nPruneAfterHeight = 1000;
 
-        genesis = CreateGenesisBlock(1524237825, 26952, 0x207fffff, 1, 50 * COIN);
+        genesis = CreateGenesisBlock(1524237827, 26952, 0x207fffff, 1, 50 * COIN);
         consensus.hashGenesisBlock = genesis.GetHash();
-        assert(consensus.hashGenesisBlock == uint256S("0x00000a5191e3296cffb4572e1df292592ff65957edef762bcda707f514b59589"));
+        assert(consensus.hashGenesisBlock == uint256S("0x2d8ae12799f833e252afd8c6d07d843d9ffc4991bc35b55f1cf9ede91fdb7948"));
         assert(genesis.hashMerkleRoot == uint256S("0xe1df48f4685d5155b7b35b4858ce922dafeb4ebd07cbecb0d2c67d8d91e017620"));
 
         vFixedSeeds.clear(); //! Regtest mode doesn't have any fixed seeds.
@@ -374,7 +374,7 @@ public:
 
         checkpointData = (CCheckpointData){
             boost::assign::map_list_of
-            ( 0, uint256S("0x00000a5191e3296cffb4572e1df292592ff65957edef762bcda707f514b59589")),
+            ( 0, uint256S("0x2d8ae12799f833e252afd8c6d07d843d9ffc4991bc35b55f1cf9ede91fdb7948")),
             0,
             0,
             0
