@@ -15,7 +15,7 @@ src/qt/test/test_bitbony-qt
 src/bench/bench_bitbony
 
 # autoreconf
-Makefile.in
+
 aclocal.m4
 autom4te.cache/
 build-aux/config.guess
@@ -80,7 +80,7 @@ libconftest.dylib*
 
 # Compilation and Qt preprocessor part
 *.qm
-Makefile
+
 bitbony-qt
 BitBony-Qt.app
 
