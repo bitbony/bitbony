@@ -8,7 +8,7 @@ packages:
 - "faketime"
 reference_datetime: "2017-01-01 00:00:00"
 remotes:
-- "url": "https://github.com/bitbonypay/bitbony-detached-sigs.git"
+- "url": "https://github.com/bitbony/bitbony-detached-sigs.git"
   "dir": "signature"
 files:
 - "bitbony-osx-unsigned.tar.gz"

@@ -24,9 +24,9 @@ Drag BitBony-Qt to your applications folder, and then run BitBony-Qt.
 
 ### Need Help?
 
-* See the [BitBony documentation](https://bitbonypay.atlassian.net/wiki/display/DOC)
+* See the [BitBony documentation](https://bitbony.atlassian.net/wiki/display/DOC)
 for help and more information.
-* Ask for help on [#bitbonypay](http://webchat.freenode.net?channels=bitbonypay) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=bitbonypay).
+* Ask for help on [#bitbony](http://webchat.freenode.net?channels=bitbony) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=bitbony).
 * Ask for help on the [BitBonyTalk](https://bitbonytalk.org/) forums.
 
 Building
@@ -58,7 +58,7 @@ The BitBony Core repo's [root README](/README.md) contains relevant information 
 
 ### Resources
 * Discuss on the [BitBonyTalk](https://bitbonytalk.org/) forums, in the Development & Technical Discussion board.
-* Discuss on [#bitbonypay](http://webchat.freenode.net/?channels=bitbonypay) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=bitbonypay).
+* Discuss on [#bitbony](http://webchat.freenode.net/?channels=bitbony) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=bitbony).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

@@ -1,7 +1,7 @@
 BitBony Core staging tree 0.12.2
 ===============================
 
-`master:` [![Build Status](https://travis-ci.org/bitbonypay/bitbony.svg?branch=master)](https://travis-ci.org/bitbonypay/bitbony) `develop:` [![Build Status](https://travis-ci.org/bitbonypay/bitbony.svg?branch=develop)](https://travis-ci.org/bitbonypay/bitbony/branches)
+`master:` [![Build Status](https://travis-ci.org/bitbony/bitbony.svg?branch=master)](https://travis-ci.org/bitbony/bitbony) `develop:` [![Build Status](https://travis-ci.org/bitbony/bitbony.svg?branch=develop)](https://travis-ci.org/bitbony/bitbony/branches)
 
 https://www.bitbony.org
 
@@ -29,7 +29,7 @@ Development Process
 -------------------
 
 The `master` branch is meant to be stable. Development is normally done in separate branches.
-[Tags](https://github.com/bitbonypay/bitbony/tags) are created to indicate new official,
+[Tags](https://github.com/bitbony/bitbony/tags) are created to indicate new official,
 stable release versions of BitBony Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).

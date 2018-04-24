@@ -40,7 +40,7 @@ NOTE: Building with Qt4 is still supported, however, doing so could result in a 
 
 1. Clone the GitHub tree to get the source code and go into the directory.
 
-        git clone https://github.com/bitbonypay/bitbony.git
+        git clone https://github.com/bitbony/bitbony.git
         cd bitbony
 
 2.  Build BitBony Core:

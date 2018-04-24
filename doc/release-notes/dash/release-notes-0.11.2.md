@@ -3,7 +3,7 @@
 
 BitBony Core version 0.11.2 is now available from:
 
-  https://bitbonypay.io/downloads
+  https://bitbony.io/downloads
 
 Please report bugs using the issue tracker at github:
 

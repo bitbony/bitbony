@@ -71,7 +71,7 @@
         <string>application/x-bitbony-payment-request</string>
         <key>public.filename-extension</key>
         <array>
-          <string>bitbonypaymentrequest</string>
+          <string>bitbonymentrequest</string>
         </array>
       </dict>
     </dict>
